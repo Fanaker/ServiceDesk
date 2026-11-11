@@ -1,0 +1,26 @@
+# Java / Maven / Angular artifacts
+build/
+target/
+node_modules/
+dist/
+.angular/
+*.class
+*.jar
+*.log
+.DS_Store
+Thumbs.db
+# Runtime state and credentials
+data/runtime/
+data/spring-servicedesk*
+.env
+.env.*
+!.env.example
+*.sqlite
+# Python and test caches
+__pycache__/
+.pytest_cache/
+.coverage
+# local screenshot helper
+_capture.py
+server.pid
+server.log

@@ -1,0 +1,30 @@
+2401	VPN disconnects after system update	Remote connection drops after 5 minutes on Windows.	Corporate IT	VPN & Remote Access	High	In progress	Ana Paredes	Lucía Ramos	2026-11-11T11:10	2026-11-11T19:10	2026-11-12T11:10	LAP-102
+2402	Cannot access monthly revenue dashboard	Power BI workspace reports access denied.	Corporate IT	Applications	Urgent	Open	Luis Herrera	Valeria Cruz	2026-11-11T07:59	2026-11-11T12:59	2026-11-11T15:59	ACC-204
+2403	New employee laptop provisioning	Prepare laptop and configure standard tools.	Corporate IT	Hardware	Medium	In progress	Sofía Medina	Marco Vidal	2026-11-11T04:48	2026-11-11T10:48	2026-11-14T04:48	LAP-209
+2404	Password reset for corporate account	Unable to reset password after MFA change.	Corporate IT	Identity & Access	Low	Resolved	Luis Herrera	Lucía Ramos	2026-11-11T01:37	2026-11-11T06:37	2026-11-18T01:37	ACC-118
+2405	Printer queue stalled on floor 3	Print jobs remain stuck in the queue.	Corporate IT	Hardware	Medium	Open	Ana Paredes	Marco Vidal	2026-11-10T22:26	2026-11-11T07:26	2026-11-13T22:26	PRN-011
+2406	Teams microphone not detected	No microphone input in video meetings.	Corporate IT	Collaboration	High	In progress	Sofía Medina	Lucía Ramos	2026-11-10T19:15	2026-11-11T01:15	2026-11-11T19:15	LAP-116
+2407	Database connection timeout on reports	Analytical service intermittently times out.	Corporate IT	Infrastructure	Urgent	Open	Luis Herrera	Marco Vidal	2026-11-10T17:04	2026-11-11T04:04	2026-11-11T01:04	SRV-023
+2408	Request access to onboarding workspace	New team member needs viewer access.	Corporate IT	Identity & Access	Low	Resolved	Ana Paredes	Valeria Cruz	2026-11-10T13:53	2026-11-10T21:53	2026-11-17T13:53	ACC-321
+2409	Wi-Fi coverage unstable in west wing	Access points disconnect during peak hours.	Corporate IT	Network	Medium	In progress	Sofía Medina	Marco Vidal	2026-11-10T10:42	2026-11-10T21:42	2026-11-13T10:42	NET-030
+2410	Install approved design software	Request approved licensed design software.	Corporate IT	Software	Low	Resolved	Ana Paredes	Valeria Cruz	2026-11-10T07:31	2026-11-10T16:31	2026-11-17T07:31	LAP-301
+2411	Security alert from endpoint agent	EDR flagged suspicious but unconfirmed process.	Corporate IT	Security	Urgent	In progress	Luis Herrera	Lucía Ramos	2026-11-10T04:20	2026-11-10T11:20	2026-11-10T12:20	SEC-017
+2412	Update shared folder permissions	Team cannot open a shared project folder.	Corporate IT	Identity & Access	Medium	Open	Sofía Medina	Valeria Cruz	2026-11-10T02:09	2026-11-10T03:09	2026-11-13T02:09	ACC-421
+2413	Headset replacement request	Headset is physically damaged.	Corporate IT	Hardware	Low	Closed	Ana Paredes	Marco Vidal	2026-11-09T22:58	2026-11-10T03:58	2026-11-16T22:58	HW-018
+2414	Payment gateway staging certificate	Certificate expires soon on test environment.	Corporate IT	Applications	High	Open	Luis Herrera	Valeria Cruz	2026-11-09T19:47	2026-11-09T19:47	2026-11-10T19:47	SRV-019
+2415	Data sync latency on order dashboard	Orders take 30 minutes to appear.	Corporate IT	Applications	Medium	In progress	Sofía Medina	Valeria Cruz	2026-11-09T16:36	2026-11-09T20:36	2026-11-12T16:36	APP-213
+2416	Meeting room display connection issue	HDMI connection fails intermittently.	Corporate IT	Hardware	Medium	Resolved	Ana Paredes	Marco Vidal	2026-11-09T13:25	2026-11-09T14:25	2026-11-12T13:25	AV-020
+2417	Remote desktop authorization	Request remote access to shared workstation.	Corporate IT	Identity & Access	Low	Resolved	Luis Herrera	Lucía Ramos	2026-11-09T10:14	2026-11-09T11:14	2026-11-16T10:14	ACC-211
+2418	Nightly backup warning	Backup job reported retryable error.	Corporate IT	Infrastructure	High	In progress	Sofía Medina	Marco Vidal	2026-11-09T08:03	2026-11-09T13:03	2026-11-10T08:03	SRV-066
+2419	Outlook calendar sync issue	Meeting invitations delayed on desktop.	Corporate IT	Collaboration	Medium	Open	Ana Paredes	Lucía Ramos	2026-11-09T04:52	2026-11-09T06:52	2026-11-12T04:52	LAP-220
+2420	Replacement mouse for workstation	Wireless mouse no longer pairs.	Corporate IT	Hardware	Low	Closed	Luis Herrera	Marco Vidal	2026-11-09T01:41	2026-11-09T01:41	2026-11-16T01:41	HW-031
+2421	Deploy revised payroll access policy	Policy changes for payroll access groups.	Corporate IT	Security	High	In progress	Ana Paredes	Valeria Cruz	2026-11-08T22:30	2026-11-09T05:30	2026-11-09T22:30	POL-105
+2422	Access denied to knowledge base	Knowledge portal displays 403 on internal network.	Corporate IT	Applications	Medium	Open	Sofía Medina	Lucía Ramos	2026-11-08T19:19	2026-11-09T01:19	2026-11-11T19:19	APP-311
+2423	Slow laptop startup after patch	Boot time is now over four minutes.	Corporate IT	Hardware	Low	Resolved	Luis Herrera	Marco Vidal	2026-11-08T17:08	2026-11-08T17:08	2026-11-15T17:08	LAP-099
+2424	ERP integration webhook errors	Failed callbacks from sandbox ERP connector.	Corporate IT	Applications	Urgent	Open	Ana Paredes	Valeria Cruz	2026-11-08T13:57	2026-11-08T19:57	2026-11-08T21:57	APP-054
+2425	Enable MFA for contractor	Contractor onboarding MFA setup.	Corporate IT	Security	Medium	Resolved	Sofía Medina	Lucía Ramos	2026-11-08T10:46	2026-11-08T15:46	2026-11-11T10:46	ACC-019
+2426	Schedule patch for file server	Critical patches must be installed after hours.	Corporate IT	Infrastructure	High	In progress	Luis Herrera	Marco Vidal	2026-11-08T07:35	2026-11-08T11:35	2026-11-09T07:35	SRV-012
+2427	Mobile device compliance notice	Device missing expected configuration profile.	Corporate IT	Security	Medium	Open	Ana Paredes	Lucía Ramos	2026-11-08T04:24	2026-11-08T04:24	2026-11-11T04:24	MDM-110
+2428	Adjust service desk notification settings	Reduce duplicate notifications for requests.	Corporate IT	Applications	Low	Resolved	Sofía Medina	Valeria Cruz	2026-11-08T01:13	2026-11-08T06:13	2026-11-15T01:13	APP-101
+2429	Replace damaged monitor cable	Display loses signal when cable moves.	Corporate IT	Hardware	Low	Closed	Ana Paredes	Marco Vidal	2026-11-07T23:02	2026-11-08T00:02	2026-11-14T23:02	HW-213
+2430	New warehouse kiosk login	Set up shared kiosk with restricted access.	Corporate IT	Identity & Access	Medium	In progress	Sofía Medina	Lucía Ramos	2026-11-07T19:51	2026-11-07T20:51	2026-11-10T19:51	ACC-219
